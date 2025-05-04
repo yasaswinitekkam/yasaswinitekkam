@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development👯 I’m looking to collaborate on exciting Java-based applications, web development projects, or cloud-related solutions using AWS.<br>🤝 I’m looking for help with Advanced web development techniques, optimizing Java code, and integrating cloud technologies.<br>🌱 I’m currently learning modern front-end designs and Data analytics<br>💬 Ask me about Development<br>⚡ Fun fact I'm lazy but smart
+🔭 I’m currently working on Web Development.<br>
+👯 I’m looking to collaborate on exciting Java-based applications, web development projects, or cloud-related solutions using AWS.<br>🤝 I’m looking for help with Advanced web development techniques, optimizing Java code, and integrating cloud technologies.<br>🌱 I’m currently learning modern front-end designs and Data analytics<br>💬 Ask me about Development<br>⚡ Fun fact I'm lazy but smart
 
 
 ## 🌐 Socials:
